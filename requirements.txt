@@ -1,0 +1,8 @@
+gspread
+oauth2client
+pyasn1
+google~=3.0.0
+google-api-python-client
+pytz~=2023.3
+aiogram
+python-dotenv
